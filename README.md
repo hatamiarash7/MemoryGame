@@ -14,11 +14,6 @@ If you have more ideas or you want to add more options / themes / sounds or what
 
 <img src="http://www.sromku.com/static/img/pregnancy_memorygame_preview.png"/>
 
-### Download It
-
-<a href="https://play.google.com/store/apps/details?id=com.snatik.matches">
-  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
-</a>
 
 ### Next
 
