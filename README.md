@@ -1,6 +1,4 @@
-# Memory Game
-
-> About a year ago, my 4 years old son asked me to play a memory game. It took me about 30 minutes looking for a memory game on Google Play that **doesn't have any jumping ads** in the middle of the game :confused:. 
+# Memory Game 
 
 `Eventually` I decided to write a new simple game without any popuping ads and release it to the store. It took me several days to design / write / test and release. Now, about a year after, I open source it.
 
@@ -25,8 +23,3 @@ If you have more ideas or you want to add more options / themes / sounds or what
 ### License
 
 - The code is: `Apache License 2.0`
-- For UI assets please check the licenses here:
-	- http://graphicriver.net/item/animals-collection-farm-and-domestic-set/7177721
-	- http://graphicriver.net/item/monster-creation-kit-and-large-pack/8851390
-	- http://graphicriver.net/item/10-fresh-game-backgrounds/9137937
-	- http://graphicriver.net/item/cartoon-games-gui-pack-11-/6056785
