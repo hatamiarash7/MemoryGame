@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MemoryGame.iml" filepath="$PROJECT_DIR$/MemoryGame.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MemoryGame.iml" filepath="$PROJECT_DIR$/.idea/modules/MemoryGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MemoryGame.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MemoryGame.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MemoryGame.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MemoryGame.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MemoryGame.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MemoryGame.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MemoryGame.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MemoryGame.app.unitTest.iml" />
     </modules>
   </component>
 </project>
