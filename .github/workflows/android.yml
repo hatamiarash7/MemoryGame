@@ -19,7 +19,7 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
       - name: Cache (NDK)
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ${ANDROID_HOME}/ndk/21.0.6113669
           key: ndk-cache
